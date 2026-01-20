@@ -1,5 +1,7 @@
 # 💫 About Me:
-HI there
+Engineering student passionate about software development Cloud engineering and data-driven solutions.
+Experienced with Python, Javascript, Java, Flask, and data analysis tools, React and Spring.
+Interested in building practical projects, learning new technologies, and writing clear, efficient code.
 
 
 ## 🌐 Socials:
@@ -14,5 +16,3 @@ HI there
 
 ---
 [![](https://visitcount.itsvg.in/api?id=youneselalaouielrhoul&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
